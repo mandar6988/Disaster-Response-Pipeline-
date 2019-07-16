@@ -1,4 +1,4 @@
-# Diaster Response Pipelene Project
+# Diaster Response Pipeline Project
 
 **1. Installation**
 
