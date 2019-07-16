@@ -1,10 +1,25 @@
 # Diaster Response Pipelene Project
+
+**1. Installation**
+
+
+      to run this program , following packages are needed.
+          1. Wordnet
+          2. nltk
+          3. Flask
+          
+      
+**2. File Description**
+  
   It consist of three files.
   
     1. process_data.py: This file is used to do ETL i.e Extract, Transform, Load. First data is loaded, cleaned and saved into sqlite               database.
     2. train_classifier.py: It consist of machine learninh algorithm operation. 
     3. run.py: Classified data is diasplayed with the help of webpage. 
-**Instruction to run program:**
+    
+
+
+** 3.Instruction to run program:**
 
 
     1. Run the following commands in the project's root directory to set up your database and model.
